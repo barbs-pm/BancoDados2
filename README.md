@@ -8,7 +8,7 @@ Sistema de Log, controle de concorrência, trigger, function, procedure
 
 ### Informações
 
-Prof.: **Guilherme Dal Bianco**
+Prof.: **Adriano S Padilha**
 
 Aluna: **Bárbara Pegoraro Markus**
 
